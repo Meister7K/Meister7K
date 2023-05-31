@@ -1,3 +1,9 @@
+<div align="center">
+<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif">
+  </div>
+
+
+
 ### ⚡Former Project Coordinator turned Web Dev⚡
 
 ### 🌱 Currently Mastering:
