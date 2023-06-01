@@ -8,9 +8,9 @@
 
 <div align="center">
   
-## ⚡Former Project Coordinator turned Web Dev⚡
+## <img src="https://media.giphy.com/media/OgngfuNtaHYOank9Y0/giphy.gif" width="50" height="50"> Former Project Coordinator turned Web Dev <img src="https://media.giphy.com/media/OgngfuNtaHYOank9Y0/giphy.gif" width="50" height="50">
   
-## <img src="https://media.giphy.com/media/iJsjsm6dhNPiQBvztq/giphy.gif" width="50" height="50"> Currently Mastering <img src="https://media.giphy.com/media/iJsjsm6dhNPiQBvztq/giphy.gif" width="50" height="50">
+# <img src="https://media.giphy.com/media/iJsjsm6dhNPiQBvztq/giphy.gif" width="50" height="50"> Currently Mastering <img src="https://media.giphy.com/media/iJsjsm6dhNPiQBvztq/giphy.gif" width="50" height="50">
   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
